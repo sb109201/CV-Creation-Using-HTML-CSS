@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head
-      <!-- Link to your website -->
-    <div class="website-link">
-        <a href="https://www.your-website-url.com" target="_blank">Visit My Website</a>
-    </div>
-
-
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to My Page</title>
@@ -113,10 +107,10 @@
                     |<input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
                 </div>
                   <div>
-                    <input type="text" placeholder="Degree" <input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
+                    <input type="text" placeholder="Degree" ><input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
                 </div>
                                       <div>
-                    <input type="text" placeholder="Degree" <input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
+                    <input type="text" placeholder="Degree"> <input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
                 </div>
                   
             </div>
@@ -169,12 +163,5 @@
             </div>
         </div>
     </div>
-                  <!-- Link to your website -->
-    <div class="website-link">
-        <a href="https://www.your-website-url.com" target="_blank">Visit My Website</a>
-    </div>
-
-
-                  
 </body>
 </html>
