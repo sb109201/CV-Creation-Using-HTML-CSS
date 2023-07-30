@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head
+      <!-- Link to your website -->
+    <div class="website-link">
+        <a href="https://www.your-website-url.com" target="_blank">Visit My Website</a>
+    </div>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .header h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        .header p {
+            font-size: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .section-content {
+            margin-top: 10px;
+        }
+        .skills ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li {
+            margin-bottom: 5px;
+        }
+        .skills strong {
+            display: inline-block;
+            min-width: 100px;
+        }
+        .education,
+        .experience {
+            margin-bottom: 15px;
+        }
+        .project-entry {
+            margin-bottom: 10px;
+        }
+        .project-entry strong {
+            display: block;
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .project-entry input[type="text"],
+        .project-entry textarea {
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to My Page CV</h1>
+        <p>Create your personalized CV below</p>
+    </div>
+
+    <div class="container">
+        <div class="name">
+            <input type="text" placeholder="Your Full Name">
+        </div>
+        <div class="contact-info">
+            Email: <input type="email" placeholder="your.email@example.com"> | Phone: <input type="tel" placeholder="+(91)123-456-7890">  <p>Github: <input type="text" placeholder="Github Id"> | Linkedin: <input type="text" placeholder="Linkedin Id"</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <div class="section-content">
+                <div class="education">
+                    <input type="text" placeholder="Degree"
+                    <br>
+                    |<input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
+                </div>
+                  <div>
+                    <input type="text" placeholder="Degree" <input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
+                </div>
+                                      <div>
+                    <input type="text" placeholder="Degree" <input type="text" placeholder="University or School"> | <input type="text" placeholder="Examination Name"> | <input type="text" placeholder="Percentage or CGPA"> |<input type="text" placeholder="Year">
+                </div>
+                  
+            </div>
+        </div>
+                  
+
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="section-content skills">
+                <ul>
+                    <li><strong>Programming Languages:</strong> <input type="text" placeholder="HTML, CSS, JavaScript"></li>
+                    <li><strong>Frameworks:</strong> <input type="text" placeholder="Bootstrap"></li>
+                    <li><strong>Version Control:</strong> <input type="text" placeholder="Git"></li>
+                    <li><strong>Tools:</strong> <input type="text" placeholder="Microsoft Office"></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Projects</h2>
+            <div class="section-content">
+                <div class="project-entry">
+                  <input type=" " placeholder ="Project1"> <input type="text" placeholder="Short description of the project.">
+                </div>
+                <div class="project-entry">
+                    <input type=" " placeholder ="Project2"> <input type="text" placeholder="Short description of the project.">
+                </div>
+                <div class="project-entry">
+          <input type=" " placeholder ="Project3"><input type="text" placeholder="Short description of the project.">
+                </div>
+                <!-- Add more projects here -->
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <div class="section-content experience">
+                <ul>
+  <li><br><textarea  rows="4" cols="80"
+          <input type="" placeholder=" "></textarea>
+    </textarea></br></li>
+  <li><br><textarea  rows="4" cols="80"
+          <input type="" placeholder=" "></textarea>
+    </textarea></br></li>
+  <li><br><textarea  rows="4" cols="80"
+          <input type="" placeholder=" "></textarea>
+    </textarea></br></li>
+</ul>  
+                
+            </div>
+        </div>
+    </div>
+                  <!-- Link to your website -->
+    <div class="website-link">
+        <a href="https://www.your-website-url.com" target="_blank">Visit My Website</a>
+    </div>
+
+
+                  
+</body>
+</html>
